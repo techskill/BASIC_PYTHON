@@ -1,0 +1,6 @@
+#Try this
+print(type(id("pakistan")))
+age='18' is string or integer
+
+
+note:you will run it to rename .txt to .py
