@@ -23,4 +23,4 @@ Welcome to the **Introduction to Python** repository! This project serves as a c
 
 ## 🛠️ Prerequisites
 Before running these files, ensure you have the following software installed on your local computer:
-* **Python 3.10+**: Download the latest build from the [
+* **Python 3.10+**: Download the latest build from (https://www.python.org/downloads/)
